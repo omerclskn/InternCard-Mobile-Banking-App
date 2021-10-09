@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mHome"
+        android:icon="@drawable/ic_ant_design_home_outlined"
+        android:title="@string/anasayfa" />
+    <item
+        android:id="@+id/mCreditCard"
+        android:icon="@drawable/ic_ant_design_credit_card_outlined"
+        android:title="@string/kartlarim" />
+    <item
+        android:id="@+id/mHelp"
+        android:icon="@drawable/ic_ant_design_question_circle_outlined"
+        android:title="@string/yardim"/>
+    <item
+        android:id="@+id/mSettings"
+        android:icon="@drawable/ic_ant_design_setting_outlined"
+        android:title="@string/ayarlar" />
+</menu>

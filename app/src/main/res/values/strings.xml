@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">interNCard</string>
+    <string name="translate">translate</string>
+    <string name="dark_mode">karanlık mod</string>
+    <string name="notification">bildirim</string>
+    <string name="welcome">Hoş Geldiniz</string>
+    <string name="login_description">Devam etmek için giriş yapınız</string>
+    <string name="individual">Bireysel Giriş</string>
+    <string name="slash">/</string>
+    <string name="corporate">Kurumsal Giriş</string>
+    <string name="login">Giriş</string>
+    <string name="new_password"><u><b>Şifremi Unuttum</b></u></string>
+    <string name="card_no">Kart no</string>
+    <string name="card_no_number">4578 4562 4587 4895</string>
+    <string name="expiration_date">10/22</string>
+    <string name="total_balance">Ad Soyad</string>
+    <string name="balance_1">0</string>
+    <string name="dot">.</string>
+    <string name="balance_2">00</string>
+    <string name="balance_3">" "</string>
+    <string name="accounts">Paranın Çekileceği Hesap</string>
+    <string name="newPassword">"         <u>Yeni Şifre Alın</u>     "</string>
+    <string name="total_debt">Toplam Borç</string>
+    <string name="minimum_amount">Asgari Tutar</string>
+    <string name="term_end">Ekstre Borcu</string>
+    <string name="payment_method">Ödeme Şekli</string>
+    <string name="send">Gönder</string>
+    <string name="my_card_debt">Ödeme Bilgileri</string>
+    <string name="my_date_information">Tarih Bilgileri</string>
+    <string name="my_card_limit">Kart Limiti</string>
+    <string name="link_card_debt"><u><b>Borç öde</b></u></string>
+    <string name="link_card_limit"><u><b>Limit Artır</b></u></string>
+    <string name="cut_off_date">Hesap Kesim Tarihi</string>
+    <string name="cut_off_date2">Hesap Kesim</string>
+    <string name="due_date">Son Ödeme Tarihi</string>
+    <string name="due_date2">Son Ödeme</string>
+    <string name="taksitler_txt">Gelecek 3 ay taksitleri</string>
+    <string name="debt">Borç</string>
+    <string name="date">29/10/1923</string>
+    <string name="total_limit">Toplam Kart Limiti</string>
+    <string name="remaining_limit">Kalan Kart Limiti</string>
+    <string name="money">0</string>
+    <string name="spending_item">BİREYSEL EMEKLİLİK</string>
+    <string name="date2">22 Haziran</string>
+    <string name="account_activities"><u><b>Hesap Hareketleri</b></u></string>
+    <string name="textview3">Ekstre Bilgileri</string>
+    <string name="textview5">Girilen tutarın ödenmesini onaylıyorum.</string>
+    <string-array name="accounts_array">
+        <item>4578 4562 4587 4895</item>
+        <item>1232 4562 4587 4895</item>
+        <item>9865 4562 4587 4895</item>
+    </string-array>
+
+
+    <string-array name="period_array">
+        <item>Dönem 1</item>
+        <item>Dönem 2</item>
+        <item>Dönem 3</item>
+
+    </string-array>
+    <string name="citizen_number">T.C. Kimlik No</string>
+    <string name="login_password">Şifre</string>
+    <string name="loading">Yükleniyor...</string>
+    <string name="value">Tutar</string>
+    <string name="textview4">Son kullanma tarihi belirlemek için seçiniz.</string>
+    <string name="selectDate">Tarih Seç</string>
+    <string name="date5">Tarih</string>
+
+    <string name="ATM">ATM</string>
+    <string name="hesaplayici">Hesaplayıcı</string>
+    <string name="hizli_islem">Hızlı İşlem</string>
+    <string name="karekod">Karekod</string>
+
+    <string name="anasayfa">Ana Sayfa</string>
+    <string name="kartlarim">Kartlarım</string>
+    <string name="yardim">Yardım</string>
+    <string name="ayarlar">Ayarlar</string>
+
+    <string name="sanal_kart_olustur">Sanal Kart Oluştur</string>
+    <string name="yeni_kart_basvuru">Kart Başvuru</string>
+    <string name="grafikler">Grafikler</string>
+    <string name="bekleyen_taksitler">Bekleyen Taksitler</string>
+
+    <string name="sayfa_anasayfa">Ana Sayfa</string>
+    <string name="sayfa_kartlarim">Kartlarım</string>
+    <string name="sayfa_hesap_hareketleri">Hesap Hareketleri</string>
+    <string name="sayfa_bekleyen_taksitler">Bekleyen Taksitler</string>
+    <string name="sayfa_grafikler">Grafikler</string>
+    <string name="sayfa_borc_ode">Borç Öde</string>
+    <string name="sayfa_sanal_kart_olustur">Sanal Kart Oluştur</string>
+
+    <string name="onayla">Onayla</string>
+
+    <string name="sanal_kart_text">Sanal kartınızı oluşturmak için limit belirlemeniz gerekmektedir.</string>
+
+</resources>

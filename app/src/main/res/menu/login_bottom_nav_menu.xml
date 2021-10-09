@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_ATM"
+        android:title="@string/ATM"
+        android:icon="@drawable/ic_ant_design_bank_outlined"
+        />
+    <item android:id="@+id/menu_calculator"
+        android:title="@string/hesaplayici"
+        android:icon="@drawable/ic_ant_design_transaction_outlined"
+        />
+    <item android:id="@+id/menu_empty"
+        android:title=""
+        />
+    <item android:id="@+id/menu_transaction"
+        android:title="@string/hizli_islem"
+        android:icon="@drawable/ic_ant_design_clock_circle_outlined"
+        />
+
+    <item android:id="@+id/menu_QR"
+        android:title="@string/karekod"
+        android:icon="@drawable/ic_ant_design_qrcode_outlined"
+        />
+</menu>

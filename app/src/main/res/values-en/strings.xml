@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">interNCard</string>
+    <string name="dark_mode">dark mode</string>
+    <string name="translate">translate</string>
+    <string name="notification">notification</string>
+    <string name="welcome">Welcome</string>
+    <string name="login_description">Press log in to continue</string>
+    <string name="individual">Individual Log In</string>
+    <string name="slash">/</string>
+    <string name="corporate">Corporate Log In</string>
+    <string name="login">Log in</string>
+    <string name="new_password"><u><b>Forgot Password</b></u></string>
+    <string name="card_no">Card no</string>
+    <string name="card_no_number">4578 4562 4587 4895</string>
+    <string name="expiration_date">10/22</string>
+    <string name="total_balance">Name Surname</string>
+    <string name="balance_1">0</string>
+    <string name="dot">.</string>
+    <string name="balance_2">00</string>
+    <string name="taksitler_txt">Next three months installments</string>
+    <string name="accounts">Account to Withdraw Money</string>
+    <string name="total_debt">Total Debt</string>
+    <string name="minimum_amount">Minimum Amount</string>
+    <string name="term_end">End of Period</string>
+    <string name="payment_method">Payment Method</string>
+    <string name="send">Send</string>
+    <string name="my_card_debt">Payment Information</string>
+    <string name="my_date_information">Date Information</string>
+    <string name="my_card_limit">Card Limit</string>
+    <string name="link_card_debt"><u><b>Debt Payment</b></u></string>
+    <string name="link_card_limit"><u><b>Limit Increment</b></u></string>
+    <string name="cut_off_date">Statement Date</string>
+    <string name="cut_off_date2">Statement</string>
+    <string name="due_date">Due Date</string>
+    <string name="debt">Debt</string>
+    <string name="date">29/10/1923</string>
+    <string name="balance_3">" "</string>
+    <string name="due_date2">Expire</string>
+    <string name="total_limit">Total Limit</string>
+    <string name="remaining_limit">Remaining Limit</string>
+    <string name="money">0</string>
+    <string name="date2">22 Haziran</string>
+    <string name="spending_item">Individual Retirement</string>
+    <string name="account_activities"><u><b>Transactions</b></u></string>
+    <string name="textview3">Statement View</string>
+    <string name="newPassword">"         <u>New Password</u>     "</string>
+    <string name="textview5">I confirm the payment of the entered amount.</string>
+    <string-array name="accounts_array">
+        <item>4578 4562 4587 4895</item>
+        <item>1232 4562 4587 4895</item>
+        <item>9865 4562 4587 4895</item>
+    </string-array>
+
+
+    <string-array name="period_array">
+        <item>Period 1</item>
+        <item>Period 2</item>
+        <item>Period 3</item>
+
+    </string-array>
+    <string name="citizen_number">Citizenship No</string>
+    <string name="login_password">Password</string>
+    <string name="loading">Loading...</string>
+    <string name="value">Value</string>
+    <string name="textview4">Select to set an expiration date.</string>
+    <string name="selectDate">Set Date</string>
+    <string name="date5">Date</string>
+
+    <string name="ATM">ATM</string>
+    <string name="hesaplayici">Calculator</string>
+    <string name="hizli_islem">Fast Transaction</string>
+    <string name="karekod">QR Code</string>
+
+    <string name="anasayfa">Home</string>
+    <string name="kartlarim">Cards</string>
+    <string name="yardim">Help</string>
+    <string name="ayarlar">Settings</string>
+
+    <string name="sanal_kart_olustur">New Virtual Card</string>
+    <string name="yeni_kart_basvuru">Card Application</string>
+    <string name="grafikler">Graphic</string>
+    <string name="bekleyen_taksitler">Installments</string>
+
+    <string name="sayfa_anasayfa">Home</string>
+    <string name="sayfa_kartlarim">Cards</string>
+    <string name="sayfa_hesap_hareketleri">Transaction</string>
+    <string name="sayfa_bekleyen_taksitler">Pending Installments</string>
+    <string name="sayfa_grafikler">Graphics</string>
+    <string name="sayfa_borc_ode">Debt Payment</string>
+    <string name="sayfa_sanal_kart_olustur">Create Virtual Card</string>
+
+    <string name="onayla">Approve</string>
+
+    <string name="sanal_kart_text"> You have to set a limit to create a virtual card.</string>
+
+
+</resources>
