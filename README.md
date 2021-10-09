@@ -6,5 +6,5 @@ Mobile banking application that successfully performs Credit Card Listing, Displ
 ![bekleyentaksitler](./image/bekleyentaksitler.PNG)
 ![borc-hareket](./image/borc-hareket.PNG)
 ![grafik](./image/grafik.PNG)
-![sanal kart](./image/sanal kart.PNG)
+![sanalkart](./image/sanalkart.PNG)
 ![yenitasarım](./image/yenitasarım.PNG)
